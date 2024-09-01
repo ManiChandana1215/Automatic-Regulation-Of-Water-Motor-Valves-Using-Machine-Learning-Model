@@ -1,5 +1,4 @@
 <h1>Water Motor Status Prediction using Machine Learning</h1>
-<hr/>
 <h3>Overview</h3>
 This project involves building a Machine Learning model that predicts whether a water motor should be turned ON or OFF based on the soil moisture levels of crops. The goal is to automate irrigation management by determining the optimal motor state to maintain adequate soil moisture, ensuring efficient water usage.
 
